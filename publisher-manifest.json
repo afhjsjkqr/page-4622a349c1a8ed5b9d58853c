@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "82eef3789c4eb7d5ffb5cf1f",
+  "owner": "afhjsjkqr",
+  "repo": "page-4622a349c1a8ed5b9d58853c",
+  "title": "TAG国际站",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4622a349c1a8ed5b9d58853c",
+      "a": "TAG国际站",
+      "b": "2027最新官网",
+      "entity": "TAG国际站",
+      "brand": "TAG国际站",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "99c7002f13b96f57f2bfdd7d80123c6424bc8390c440fd929fd7704c9f9b0637",
+      "content": {
+        "primary_entity": "TAG国际站",
+        "keyword1": "TAG国际站",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，再导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端按设备选取",
+          "AI_CLOSING_TEXT": "确定设备数量与流量需求，再对照套餐权益做选择。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_DESCRIPTION": "，围绕三档套餐、设备数量与订阅周期展开，帮助你在基础版、旗舰版与团队版之间做出取舍，并了解如何在常见客户端内导入订阅链接。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度快速区分套餐。",
+          "AI_FEATURES_TITLE": "套餐区分要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合单人或小范围日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，可定制路由并配客户经理。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路与场景匹配",
+          "AI_FEATURE_TITLE_3": "团队与定制需求",
+          "AI_GUIDE_INTRO": "先确认使用场景与设备数量，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_HERO_INTRO": "TAG国际站提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 流量、3 台至 20 台设备的不同需求，并针对流媒体、游戏加速与团队协作分别优化线路。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持定制路由与客户经理",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付分别约 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐价格与权益对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线的设备数量和是否需要专线加速，初步圈定适合的套餐档位。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TEXT_2": "对照套餐的设备数量上限与流量额度，确认所选档位能否覆盖全部常用终端。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_3": "在对应系统的客户端中按文档导入订阅链接，完成后即可切换节点使用。",
+          "AI_STEP_TITLE_3": "按客户端配置订阅",
+          "AI_VISUAL_TITLE": "TAG国际站套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。可以按常用手机、电脑和平板的实际数量选择，设备较多时选团队版更从容。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB。轻度浏览与社交选基础版即可，经常看视频或多人共用建议旗舰版及以上。",
+          "AI_FAQ_ANSWER_3": "按年付更划算，基础版仅需150元每年，旗舰版350元每年，团队版850元每年。长期使用的话，年付方案比月付节省不少。",
+          "AI_FAQ_ANSWER_4": "在客户端订阅管理里新建订阅并粘贴订阅地址，保存后选择节点连接即可。不同客户端的菜单名称略有差别，按对应客户端文档操作就行。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点。如果对延迟敏感，可以优先考虑这两档套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以让几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "订阅地址怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版针对游戏有什么优化？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fancynetworjc.com",
+    "host": "fancynetworjc.com"
+  },
+  "file_hashes": {
+    "index.html": "1821b038121caa7165514ac74488d752e3850c576ed48621ef763f714b0a2f3f",
+    "sitemap.xml": "cd990e4a24da7c2810a2c927a7b2ee0c0a241c1a49d2211b2e0ac02ed95d4cf9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "82b13f23de24501ae81539b74791d878cda6683236af8c2e9ab40988d7a99983",
+    "robots.txt": "f888ca158383a013d828c885463c34a7bb2eaf73c80f994f65bc37460c98b5be",
+    "dd6b7a566027ec3ac256ab2618404417.txt": "6a40ea34c6e0965afb2d820e7e71c6edb1ecfee4f50de4d1bcd45a2aa25af9fc"
+  },
+  "revision": "c92c65b2aeab98a95fac0772293bc5af7ff0703ee428fbb6ec18f280b6e1b708"
+}
